@@ -1,0 +1,7 @@
+#Sun Oct 09 16:26:59 SGT 2016
+base.0=C\:\\Users\\User\\Desktop\\SIAappFINAL\\SIAapp - Copy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_6bb118ec2f5a9781315bd117dab2626b250267d2
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\User\\Desktop\\SIAappFINAL\\SIAapp - Copy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_457b159848ee62b12d29d0a939dcba59251a7bcf\\classes.dex
+base.1=C\:\\Users\\User\\Desktop\\SIAappFINAL\\SIAapp - Copy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_457b159848ee62b12d29d0a939dcba59251a7bcf
+file.0=C\:\\Users\\User\\Desktop\\SIAappFINAL\\SIAapp - Copy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_6bb118ec2f5a9781315bd117dab2626b250267d2\\classes.dex
